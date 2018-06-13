@@ -9,12 +9,16 @@ Embedded system design challenge and metrics. Processor and IC technologies. Sof
 
 ### Equipments
 - SAM D20 J18 32-bit ARM® Cortex®-M0+ Microcontroller 
+
 ![SAMD 20 J18 MCU](https://raw.githubusercontent.com/jbp261/Microcontroller-Projects/master/Images/ATSAMD20-XPRO.jpg "SAMD 20 J18 MCU")
+
 - Extension Board
+
 ![Extension Board](https://raw.githubusercontent.com/jbp261/Microcontroller-Projects/master/Images/Extention_Board.png "Extension Board")
 
 
 - DC Motor
+
 ![Motor Fan](https://raw.githubusercontent.com/jbp261/Microcontroller-Projects/master/Images/Load_Motor_Fan.png "Motor Fan")
 
 ### Environment
