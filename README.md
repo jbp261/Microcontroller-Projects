@@ -5,7 +5,7 @@
 
 ### Project Description
 
-Embedded system design challenge and metrics. Processor and IC technologies. Software and hardware architectures for embedded system design. Design flow and tools. The design of standard peripherals, microcontrollers, single-purpose and general-purpose processors. Basic concepts of interfacing and communication protocols in embedded systems
+Embedded system design challenge and metrics. Processor and IC technologies. Software and hardware architectures for embedded system design. Design flow and tools. The design of standard peripherals, microcontrollers, single-purpose and general-purpose processors. Advanced concepts of interfacing and communication protocols in embedded systems
 
 ### Equipments
 - SAM D20 J18 32-bit ARM® Cortex®-M0+ Microcontroller 
