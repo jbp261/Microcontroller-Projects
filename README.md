@@ -28,6 +28,7 @@ Embedded system design challenge and metrics. Processor and IC technologies. Sof
 - Atmel Studio 7 IDE
 ![IDE](https://raw.githubusercontent.com/jbp261/Microcontroller-Projects/master/Images/AtmelStudio7.jpeg "IDE")
 
+- Matlab by Mathworks
 ### Folder Description 
 - GPIO: General Purpose Input Output related projects
 - ADC/DAC: Analog to Digital Conversion and Digital to Analog Conversion related projects
