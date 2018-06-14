@@ -5,6 +5,9 @@
 
 ### Project Description
 
+The goal of this project is to explore all the functionality of the SAM D20 microcontroller and understand the operation of the underlying ARM Cortex M0+ chip. The projects aimed at building applications like a de-bouncing circuit, a calculator, etc. Understanding and analyzing the different functionalities of the microcontroller to engineer a product with minimal complexity was the primary goal. 
+
+The following topics were coverd in depth.
 Embedded system design challenge and metrics. Processor and IC technologies. Software and hardware architectures for embedded system design. Design flow and tools. The design of standard peripherals, microcontrollers, single-purpose and general-purpose processors. Advanced concepts of interfacing and communication protocols in embedded systems
 
 ### Equipments
