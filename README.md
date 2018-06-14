@@ -20,7 +20,7 @@ Embedded system design challenge and metrics. Processor and IC technologies. Sof
 ![Extension Board](https://raw.githubusercontent.com/jbp261/Microcontroller-Projects/master/Images/Extention_Board.png "Extension Board")
 
 
-- DC Motor
+- H-Bridge Motor
 
 ![Motor Fan](https://raw.githubusercontent.com/jbp261/Microcontroller-Projects/master/Images/Load_Motor_Fan.png "Motor Fan")
 
