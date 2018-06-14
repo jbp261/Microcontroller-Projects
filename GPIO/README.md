@@ -1,6 +1,22 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf400
-{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-}
+# General Purpose Input Output (GPIO) Project
+
+### Abstract
+
+The GPIO project aims to build a software de-bouncing circuit and a calculator using the multiplexed seven-segment LEDs and four by four keypad located on the extension board. 
+
+### Equipments
+- SAM D20 Microcontroller
+	-  I/O Peripherals 
+- The Extension Board
+	- 4 by 4 Keypad
+	- Four Multiplexed Seven Segment LEDs
+
+### Detailed Description
+
+Debouncing 
+- If a button is tapped very quickly, it is not registered as a valid key-press. Also if a button is held down, make sure that your program does not repeatedly accept this key-press multiple times.
+
+Calculator
+- A calculator developed using the keypad and 7-segment display as the input/output devices.  The calculator can add and subtract two integer numbers (with sign). The digit key “#” represents the 'add' (+), “*” represents subtraction (-), "A" as the equal (=) and, and "B" as backspace. The cases like consecutive add and subtract operation, as well as over/underflow (more than 9999 or less than -9999), are not covered. The calculator is built by implementing leading zero blanking, multiple, divide, decimal point or floating point. The following figure shows the schematic of the keypad and 7-segment display circuit and their connections to the SAM D20 board.
+
+![Pinpad and LED Schematic](https://raw.githubusercontent.com/jbp261/Microcontroller-Projects/master/Images/Pinpad_LEDs_Sch.png "Pinpad and LED Schematic")
