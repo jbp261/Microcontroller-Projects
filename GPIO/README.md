@@ -33,3 +33,9 @@ The de-bouncing circuit was implemented successfully by following the state mach
 ![De-bouncing state diagram](https://raw.githubusercontent.com/jbp261/Microcontroller-Projects/master/Images/De-bouncing.png "De-bouncing state diagram")
 
 The calculator was also implemented successfully as per the specification provided in the detailed description section. 
+
+### Referances
+
+- [7-segment Display Data Sheet](http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTC-4627JR.pdf "7-segment Display Data Sheet")
+
+- [Keypad Data Sheet](http://www.grayhill.com/assets/1/7/Keypads_96.pdf "Keypad Data Sheet")
