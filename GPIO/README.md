@@ -21,6 +21,12 @@ Calculator
 
 ![Pinpad and LED Schematic](https://raw.githubusercontent.com/jbp261/Microcontroller-Projects/master/Images/Pinpad_LEDs_Sch.png "Pinpad and LED Schematic")
 
+### File Description
+
+- **Calculator_UART.c **: This file contains the operational code for implementing a simple calculator using the SAM D20 microcontroller. 
+- **LED_Toggle_1.c** : This file contains the functions to display a specific number or a letter on the quad seven segment display
+- **Software_de-bouncing.c**: This file contains the implementation of the de-bouncing circuit state diagram in c. 
+
 ### Results
 The de-bouncing circuit was implemented successfully by following the state machine diagram shown below. 
 
