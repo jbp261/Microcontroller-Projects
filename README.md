@@ -29,9 +29,13 @@ Embedded system design challenge and metrics. Processor and IC technologies. Sof
 ![IDE](https://raw.githubusercontent.com/jbp261/Microcontroller-Projects/master/Images/AtmelStudio7.jpeg "IDE")
 
 - Matlab by Mathworks
+
 ### Folder Description 
-- GPIO: General Purpose Input Output related projects
-- ADC/DAC: Analog to Digital Conversion and Digital to Analog Conversion related projects
-- TC-PWM: Timer Control and Pulse Width Modulation related projects
-- FIlters-MotorSpeedMeasurement: Implementation of digital filters and motor speed measurement related projects
-- Motor Control: DC motor control related projects
+- **GPIO**: General Purpose Input Output related projects
+- **ADC/DAC**: Analog to Digital Conversion and Digital to Analog Conversion related projects
+- **TC-PWM**: Timer Control and Pulse Width Modulation related projects
+- **Filters-MotorSpeedMeasurement**: Implementation of digital filters and motor speed measurement related projects
+- **Motor Control**: DC motor control related projects
+
+### Referances
+
