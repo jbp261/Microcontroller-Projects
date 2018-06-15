@@ -39,3 +39,11 @@ Embedded system design challenge and metrics. Processor and IC technologies. Sof
 
 ### Referances
 
+- [SAM D20 Xplained Pro Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42102-SAMD20-Xplained-Pro_User-Guide.pdf "SAM D20 Xplained Pro Datasheet")
+
+- [ARM Cortex-M Textbook](https://www.arm.com/resources/education/textbooks/efficient-embedded-systems-design-and-programming "Arm Cortex-M Textbook")
+
+### Acknowledgment
+- Special thanks to [Dr. Youngsoo Kim](http://www.sjsu.edu/people/youngsoo.kim/ "Dr. Youngsoo Kim") at San Jose State University for his significant efforts in explaining all the difficult concepts of embedded systems
+
+- Many thanks to Alan Chen for his help in debugging various problems faced during the projects. 
