@@ -43,6 +43,8 @@ Embedded system design challenge and metrics. Processor and IC technologies. Sof
 
 - [ARM Cortex-M Textbook](https://www.arm.com/resources/education/textbooks/efficient-embedded-systems-design-and-programming "Arm Cortex-M Textbook")
 
+- [Embedded C Programming and the Atmel AVR](https://www.cengage.com/c/embedded-c-programming-and-the-atmel-avr-2e-barnett/9781418039592 "Embedded C Programming and the Atmel AVR")
+
 ### Acknowledgment
 - Special thanks to [Dr. Youngsoo Kim](http://www.sjsu.edu/people/youngsoo.kim/ "Dr. Youngsoo Kim") at San Jose State University for his significant efforts in explaining all the difficult concepts of embedded systems.
 
