@@ -12,9 +12,6 @@ The project contains the implementation of the function of a DAC by using a PWM 
 	- Four Multiplexed Seven Segment LEDs
 - H-bridge Motor
 
-### Additional Environment
-- Matlab for filter design
-
 ### Detailed Description
 
 **PWM**
