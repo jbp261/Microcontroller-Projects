@@ -48,4 +48,4 @@ Embedded system design challenge and metrics. Processor and IC technologies. Sof
 ### Acknowledgment
 - Special thanks to [Dr. Youngsoo Kim](http://www.sjsu.edu/people/youngsoo.kim/ "Dr. Youngsoo Kim") at San Jose State University for his significant efforts in explaining all the difficult concepts of embedded systems.
 
-- Many thanks to Alan Chen and Marcus Garcia for his help in debugging various problems faced during the projects. 
+- Many thanks to Alan Chen and Marcus Garcia for their help in debugging various problems I faced executing the projects. 
