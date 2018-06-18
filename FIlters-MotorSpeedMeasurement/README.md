@@ -38,7 +38,7 @@ There are two parts of this project. First is to implement a digital filter usin
 ### Results
 
 **The Notch Filter**
-- In the following graphs, the yellow signal is from the function generator, and the green signal is the filtered output from the microcontroller without analog low pass filters.
+- In the following graphs, the yellow signal is from the function generator, and the green signal is the filtered output from the microcontroller without analog low pass filter.
 
 ![53HZ](https://raw.githubusercontent.com/jbp261/Microcontroller-Projects/master/Images/53Hz.jpg "53HZ")
 > Signal at 53 Hz, not attenuated by the notch filter.
@@ -56,4 +56,4 @@ There are two parts of this project. First is to implement a digital filter usin
 - The motor speed control was implemented successfully as described in the description section. 
 
 ![Filter Calc](https://raw.githubusercontent.com/jbp261/Microcontroller-Projects/master/Images/FilterCalc.jpg "Filter Calc")
-> The time taken by the microcontroller for filter calculations: 400 micro seconds
+> The time taken by the microcontroller for filter calculations: 400 &mu;Sec
