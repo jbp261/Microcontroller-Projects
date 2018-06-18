@@ -30,6 +30,30 @@ Embedded system design challenge and metrics. Processor and IC technologies. Sof
 
 - Matlab by Mathworks
 
+### Installation 
+
+Atmel Studio Installation Guide [**HERE**](https://www.youtube.com/watch?v=q8ruiOJhNbk "**HERE**")
+
+The following steps guide to create a new project in Atmel Studio
+
+1. Open Atmel Studio
+2. Click on File
+	a. Go to New &rightarrow; Project
+3. Click on GCC C ASF Board Project C/C++
+	a. Name the file
+	b. Select the location of the file to save by clicking on the Browse button
+	Click 'ok'
+4. Board Selection winow will appear
+	a. Click on the Device Family to select SAMD
+	b. Find ATSAMD20J18 in the list
+	c. Once that is clicked on, two options will appear at the bottom of the screen
+	- Select the User Board template - ATSAMD20J18.
+	d. Click 'ok'
+5. Atmel Studio will then create and load in the new project
+6. In the Solution Explorer window, find the src file and expand it.
+	a. Open the  '**main.c**' file
+	b. This is the file where all the code goes in
+	- All the files shown in this projects are thee main.c files.
 ### Folder Description 
 - **GPIO**: General Purpose Input Output related projects
 - **ADC/DAC**: Analog to Digital Conversion and Digital to Analog Conversion related projects
